@@ -1,0 +1,27 @@
+{
+  "id": 8,
+  "name": "Labrador",
+  "status": "pending",
+  "category": {
+    "id": 8,
+    "name": "Dog"
+  },
+  "photoUrls": [
+    "https://www.istockphoto.com/photo/portrait-of-a-blond-labrador-retriever-dog-looking-at-the-camera-with-a-big-happy-gm1251033537-364983157",
+    "https://www.pexels.com/photo/black-labrador-retriever-lying-on-grasses-162149/"
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "name": "friendly"
+    },
+    {
+      "id": 2,
+      "name": "hairy"
+    },
+    {
+      "id": 3,
+      "name": "sniffy"
+    }
+  ]
+}
